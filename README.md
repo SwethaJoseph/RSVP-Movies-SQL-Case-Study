@@ -51,7 +51,7 @@ The dataset has been processed using SQL to answer strategic questions regarding
 
 ## Tools & Technologies
 * SQL: For querying and analyzing the IMDb dataset.
-* Microsoft Excel: For initial data processing.
+* Microsoft Excel: For initial data processing and visualization.
 * PowerPoint: To present findings and strategic insights.
 
 ## Contact
