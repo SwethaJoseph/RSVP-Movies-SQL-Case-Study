@@ -53,3 +53,6 @@ The dataset has been processed using SQL to answer strategic questions regarding
 * SQL: For querying and analyzing the IMDb dataset.
 * Microsoft Excel: For initial data processing.
 * PowerPoint: To present findings and strategic insights.
+
+## Contact
+For further questions or suggestions, feel free to reach out to [LinkedIn | Swetha Kizhavana Joseph](https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/) or [email](swethakjoseph16@gmail.com) 
