@@ -14,8 +14,9 @@ The project uses data from the IMDb database covering movie releases between 201
 The dataset has been processed using SQL to answer strategic questions regarding genre performance, ratings, and global audience preferences.
 
 ## ENTITY- RELATIONSHIP DIAGRAM (ERD)
-![image](https://github.com/user-attachments/assets/d054fc72-e3ea-4110-a391-1fd1963dbf00)
+The ERD below illustrates the relationships between the key tables used in this project:
 
+![Entity-Relationship Diagram](ERD.png)
 
 ## Objectives
 * Identify Popular Genres: Determine the best-performing genres for RSVP’s new release.
