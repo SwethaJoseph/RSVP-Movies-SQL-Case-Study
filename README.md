@@ -18,6 +18,12 @@ The ERD below illustrates the relationships between the key tables used in this 
 
 ![Entity-Relationship Diagram](ERD.png)
 
+* Download the IMDB Dataset: Ensure all necessary tables (movies, genres, ratings, contributors) are accessible.
+* Review Data Structure: Study the relationships and schema in the ERD to understand the data connections.
+* Set Up the Database: Use your preferred SQL environment (e.g., MySQL Workbench) to create and populate the database using the provided SQL scripts or custom commands.
+
+_Note: If you’d like to skip the manual setup, a SQL script is available that automates database creation and data loading._
+
 ## Objectives
 * Identify Popular Genres: Determine the best-performing genres for RSVP’s new release.
 * Timing Insights: Find optimal release months based on historical trends.
