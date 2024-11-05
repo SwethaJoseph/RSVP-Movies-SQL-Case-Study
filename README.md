@@ -50,7 +50,7 @@ The dataset has been processed using SQL to answer strategic questions regarding
 * Box Office Insights: Leverage popular production houses like Marvel Studios for their market influence and experience with high-grossing movies.
 
 ## Tools & Technologies
-* SQL: For querying and analyzing the IMDb dataset.
+* MySQL Workbench or any SQL Editor: For querying and analyzing the IMDb dataset.
 * Microsoft Excel: For initial data processing and visualization.
 * PowerPoint: To present findings and strategic insights.
 
