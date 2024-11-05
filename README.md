@@ -61,4 +61,4 @@ The ERD below illustrates the relationships between the key tables used in this 
 
 ## Contact
 For further questions or suggestions, feel free to reach out to [LinkedIn | Swetha Kizhavana Joseph](https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/) or [email](swethakjoseph16@gmail.com) 
-If you found this project helpful or interesting, please give it a ⭐ to show your support!
+### If you found this project helpful or interesting, please give it a ⭐ to show your support!
